@@ -1,7 +1,7 @@
 // t2 loop.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-
+//For pull request
 #include <iostream>
 #include <cmath>
 
